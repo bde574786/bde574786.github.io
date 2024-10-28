@@ -5,7 +5,7 @@ author: bde574786
 date: 2024-10-26 16:38:00 +0900
 categories: [최근 보안 이슈]
 tags: [Recent Issue, Password Spray Attack]
-image: assets/posts/security-issue/2024-10-26/image-001.png
+image: assets/posts/security-issue/2024-10-26/img-001.png
 ---
 
 ## **Who is Midnight Blizzard?**
