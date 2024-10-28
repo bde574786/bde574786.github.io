@@ -4,7 +4,7 @@ description: "Law enforcement ‘trolls’ ransomware gang"
 author: bde574786
 date: 2024-10-28 13:33:00 +0900
 categories: [최근 보안 이슈]
-tags: [최근 보안 이슈, Ransomware]
+tags: [Recent Issue, Ransomware]
 image: assets/posts/security-issue/2024-10-28/img-001.png
 ---
 
